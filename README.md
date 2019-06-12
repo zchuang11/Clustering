@@ -1,4 +1,5 @@
 # Approximate Rank Order Clustering
+PAPER:PAMI2017:Clustering Millions of Faces by Identity
 
 This repository contains an implementation of [this](https://arxiv.org/pdf/1604.00989.pdf) paper.
 ## What's in this repository
